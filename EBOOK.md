@@ -1,4 +1,4 @@
-# **[Manual de DevOps]**: Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas 🌌
+# \_Manual de DevOps\_: Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas 🌌
 
 ## 📒 Descrição
 Este e-book de 8 páginas é um resumo do livro livro “Manual de DevOps: Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas” de Gene Kim, Jez Humble, Patrick Debois e John Willis é uma obra fundamental para quem deseja entender e implementar práticas de DevOps em suas organizações. 
